@@ -1,3 +1,5 @@
+/*    SLD added 3/3/2023    */
+
 class Residential(rateR:Double, senior:String, custName:String,
                   custPhone:String,
                   custAddress:String,

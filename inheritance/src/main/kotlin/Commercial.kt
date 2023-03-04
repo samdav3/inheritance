@@ -1,3 +1,5 @@
+/*    SLD added 3/3/2023    */
+
 class Commercial(propName:String, rate:Double, multiProp:String,
                 custName:String,
                 custPhone:String,

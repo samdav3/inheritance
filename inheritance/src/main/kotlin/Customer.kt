@@ -1,3 +1,5 @@
+/*    SLD added 3/3/2023    */
+
 open class Customer(custName:String, custPhone:String, custAddress:String, sqrFoot:Double) {
     var custName: String = ""
         get() = field
